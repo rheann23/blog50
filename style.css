@@ -1,0 +1,17 @@
+body{
+    color: antiquewhite;
+    background-color: rgb(204, 47, 47);
+    
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.name_of_objects{
+    color: rgb(44, 42, 187);
+}
+#camera{
+    border: 2px dashed purple;
+    width: 350px;
+    height: 300px;
+}
